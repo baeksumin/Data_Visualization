@@ -60,6 +60,6 @@ R
 
 > 6. 결론
 
-<img width="871" alt="스크린샷 2021-01-20 오후 11 45 55" src="https://user-images.githubusercontent.com/49911177/105191318-46639080-5b7a-11eb-8005-d8f892b623f6.png">
+<img width="500" alt="스크린샷 2021-01-20 오후 11 45 55" src="https://user-images.githubusercontent.com/49911177/105191318-46639080-5b7a-11eb-8005-d8f892b623f6.png">
 
 
